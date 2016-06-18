@@ -8,7 +8,7 @@ fuel consumption and 10 aspects of automobile design and performance for 32 auto
 Source:
 Henderson and Velleman (1981), Building multiple regression models interactively. Biometrics, 37, 391¨C411.  
 
-Users can choose the viriabls of interest to build the regression model with outcome, mpg. 
+Users can choose the variables of interest to build the regression model with outcome, mpg. 
 The information of models is given in the shiny web page, and the trials are recorded as history, which helps users to 
 pich up the model they want. 
 
